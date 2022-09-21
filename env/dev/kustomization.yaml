@@ -7,4 +7,4 @@ resources:
 images:
 - name: ghcr.io/argocon2022-workshop/demo-app
   newName: ghcr.io/fatgit/demo-app
-  newTag: 06b104a8bc545f1775ddf7a5c7ac8fe09667fab0
+  newTag: 92693edfd93f39f23b742536ea6b9bc2747f3f69
