@@ -3,3 +3,8 @@ kind: Kustomization
 
 resources:
 - ../../base
+
+images:
+- name: ghcr.io/argocon2022-workshop/demo-app
+  newName: ghcr.io/fatgit/demo-app
+  newTag: 786dd01f523b2ceea10c7262724d1799814592f9
